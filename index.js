@@ -34,4 +34,4 @@ var theFunk = "FUNKY!"
 
 
 
-// i tried to use the absolute value method to solve the math part :).....such craziness, when the solution was so simple!
+// i tried to use the absolute value method to solve the math part :).....such craziness, when the solution was so simple!le
