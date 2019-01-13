@@ -1,5 +1,5 @@
 var animal = 'dog'
-const two = 121+2000;
+const two = 7;
 function myAnimal() {
   // let animal = 'cat';
   return animal
