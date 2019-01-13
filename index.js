@@ -1,5 +1,5 @@
 var animal = 'dog'
-const two = "900 ";
+const two = 0;
 
 function myAnimal() {
   // let animal = 'cat';
@@ -15,10 +15,10 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return n + two 
+  return n + two
  
 
- 
+  // Feel free to move things around!
   
 }
 
