@@ -1,5 +1,5 @@
 var animal = 'dog'
-const two = Math.abs(0);
+const two = Math.abs(5);
 
 function myAnimal() {
   // let animal = 'cat';
