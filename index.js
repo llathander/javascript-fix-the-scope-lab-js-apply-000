@@ -1,5 +1,5 @@
 var animal = 'dog'
-const two = "600";
+const two = "900";
 
 function myAnimal() {
   // let animal = 'cat';
