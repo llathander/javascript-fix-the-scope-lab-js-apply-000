@@ -15,7 +15,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return n / 1000 + two
+  return n / 100 + two
  
 
  
